@@ -1,0 +1,4 @@
+﻿  Small.cpp
+f:\projects\c\mainproject\mainproject\small.cpp(12): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+f:\projects\c\mainproject\mainproject\small.cpp(19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  MainProject.vcxproj -> F:\Projects\C\MainProject\Debug\MainProject.exe
