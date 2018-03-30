@@ -1,2 +1,4 @@
-﻿  Add.cpp
-  Functions.vcxproj -> C:\Users\benbo.REDMOND\source\repos\Functions\Debug\Functions.exe
+﻿  Small.cpp
+c:\users\benbo\source\repos\cpptraining\functions\functions\small.cpp(16): error C2660: 'add': function does not take 3 arguments
+c:\users\benbo\source\repos\cpptraining\functions\functions\small.cpp(17): error C3536: 'c': cannot be used before it is initialized
+c:\users\benbo\source\repos\cpptraining\functions\functions\small.cpp(20): error C2660: 'add': function does not take 3 arguments
