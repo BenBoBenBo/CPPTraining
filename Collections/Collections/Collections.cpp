@@ -67,7 +67,7 @@ int main()
 	cout << endl;
 
 	int threes = count(begin(vi), end(vi), 3);
-	cout << "Vector of ints has " << threes << " elements.";
+	cout << "Vector of ints has " << threes << " elements." << endl;
 
 	int tees = count(begin(vs[0]), end(vs[0]), 't');
 	cout << "First word has " << tees << " letter t's.";
